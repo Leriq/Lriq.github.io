@@ -3,14 +3,26 @@
     padding: 0;
 }
 body {
-    color: white;
+    background-color: #01060e;
 }
 header {
-    background-color: blue;
+    background-color: #071529;
     font-family: verdana;
  font-size: 22pt;
-    text-align: center;
+    
     padding: 10px;
  height: 80px;
     padding-top: 20px;
+    
+}
+#n{
+    text-decoration: none;
+    color: #06c;
+}
+#c{
+    text-decoration: none;
+    color: #db2105;
+}
+#h{
+ margin-left: 80%
 }
