@@ -8,11 +8,12 @@ body {
 header {
     background-color: #071529;
     font-family: verdana;
- font-size: 22pt;
+ font-size: 17pt;
     
     padding: 10px;
- height: 80px;
+ height: 50px;
     padding-top: 20px;
+    padding-bottom: 20px
     
 }
 #n{
@@ -24,5 +25,5 @@ header {
     color: #db2105;
 }
 #h{
- margin-left: 80%
+ margin-left: 85%
 }
